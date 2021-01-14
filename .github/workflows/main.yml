@@ -9,6 +9,8 @@ jobs:
     steps:
     - name: Checkout the repository
       uses: actions/checkout@v2
+      with:
+        submodules: true
     - name: Test build
       uses: home-assistant/builder@master
       with:
