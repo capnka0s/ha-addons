@@ -15,5 +15,5 @@ jobs:
         args: |
           --test \
           --all \
-          --target /data \
+          --target /data/web-renderer-api \
           --docker-hub capnka0s
