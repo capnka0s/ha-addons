@@ -1,0 +1,11 @@
+{
+    "name": "Web Renderer API",
+    "version": "1",
+    "slug": "web-renderer-api",
+    "description": "A REST Api for rendering webpages",
+    "arch": ["armhf", "armv7", "aarch64", "amd64"],
+    "startup": "application",
+    "boot": "auto",
+    "options": {},
+    "schema": {}
+  }

@@ -1,0 +1,3 @@
+[submodule "web-renderer-api/url-to-pdf-api"]
+	path = web-renderer-api/url-to-pdf-api
+	url = https://github.com/alvarcarto/url-to-pdf-api.git
