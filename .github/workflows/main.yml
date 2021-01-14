@@ -16,4 +16,4 @@ jobs:
           --test \
           --all \
           --target /data/web-renderer-api \
-          --docker-hub capnka0s
+          --docker-hub capnka0s/ha-addon-web-renderer-api
