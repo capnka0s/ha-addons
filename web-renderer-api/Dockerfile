@@ -9,6 +9,10 @@ RUN apk add --update nodejs nodejs-npm
 COPY run.sh /
 RUN chmod a+x /run.sh
 
+COPY url-to-pdf-api .
+
+RUN rm -rf url-to-pdf-api/.git
+
 RUN cd url-to-pdf-api  \
 &&  npm install
 
