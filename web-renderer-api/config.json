@@ -10,5 +10,6 @@
     "schema": {},
     "ports": {
       "9000/tcp": 9000
-    }
+    },
+    "image": "capnka0s/ha-addon-web-renderer-api-{arch}"
   }
