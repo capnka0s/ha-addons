@@ -1,6 +1,6 @@
 {
     "name": "Web Renderer API",
-    "version": "1",
+    "version": "0.1",
     "slug": "web-renderer-api",
     "description": "A REST Api for rendering webpages",
     "arch": ["armhf", "armv7", "aarch64", "amd64"],
